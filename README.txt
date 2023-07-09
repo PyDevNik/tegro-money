@@ -1,0 +1,1 @@
+Simple Tegro.Money Requests API parser
